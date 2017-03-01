@@ -38,7 +38,7 @@
             {
                 "language": "bolt",
                 "scopeName": "source.bolt",
-                "path": "./syntaxes/bolt.tmLanguage"
+                "path": "./syntaxes/bolt.pList"
             }
         ]
     }
